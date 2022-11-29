@@ -1,2 +1,2 @@
 # nogravel
-dsklj
+this mod swaps gravel with stone in Minetest Game
