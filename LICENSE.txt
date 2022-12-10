@@ -1,19 +1,4 @@
-License of media (textures and sounds)
---------------------------------------
 Copyright (C) 2022 TeufloV, Christian Rötzer <chris.roetzer@gmx.de>
-See README.txt in each mod directory for information about other authors.
-
-Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
-http://creativecommons.org/licenses/by-sa/3.0/
-
-License of all the textures
-Copyright (C) 2015 paramat CC BY-SA 3.0
-
-
-License of source code
-----------------------
-Copyright (C) 2022 TeufloV, Christian Rötzer <chris.roetzer@gmx.de>
-See README.txt in each mod directory for information about other authors.
 
                   GNU LESSER GENERAL PUBLIC LICENSE
                        Version 2.1, February 1999
